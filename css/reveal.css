@@ -1014,7 +1014,7 @@ body {
  .reveal .footer-logo {
     display: none;
 	position: fixed;
-	width: 100px;
+	width: 300px;
 	z-index: 30;
 
 	left: 15px;
