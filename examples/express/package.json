@@ -1,9 +1,9 @@
 {
   "name": "express-sample",
-  "version": "0.0.1",
+  "version": "0.0.1-1",
   "private": true,
   "scripts": {
-    "start": "node web"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "3.0.1",
@@ -13,5 +13,6 @@
   "engines": {
     "node": "0.8.x",
     "npm": "1.1.x"
-  }
+  },
+  "subdomain": "express-sample"
 }
